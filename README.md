@@ -986,6 +986,6 @@ Semua route laporan memerlukan user login (`middleware auth`). Filament otomatis
 
 **Sistem Manajemen Aset — Tugas Akhir**
 
-Dibangun dengan ❤️ menggunakan **Laravel 12** + **FilamentPHP 3**
+Dibangun menggunakan **Laravel 12** + **FilamentPHP 3**
 
 </div>
